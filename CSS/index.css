@@ -52,7 +52,27 @@ body {
     padding: 0 15px 0 15px;
     display: flex;
     align-items: center;
+}
+
+.title-nav-bar {
     min-height: 60px;
+}
+
+.link-nav-bar {
+    min-height: 30px;
+}
+
+.nav-link-container {
+    margin-bottom: 10px;
+}
+
+.nav-link-anchor {
+    color: white;
+    text-decoration: underline;
+    font-size: 15px;
+    font-family: system-ui;
+    font-weight: 100;
+    float: left;
 }
 
 .navbar-header {
